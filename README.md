@@ -114,4 +114,4 @@ $
 
 ## AUTHORS
  
-* **Faith Ikhidero** - [sheja](https://github.com/shejaemeric2)
+* **SHEJA Lervy Emeric** - [sheja](https://github.com/shejaemeric2)
