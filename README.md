@@ -114,4 +114,4 @@ $
 
 ## AUTHORS
  
-* **Faith Ikhidero** - [Faitholo](https://github.com/Faitholo)
+* **Faith Ikhidero** - [sheja](https://github.com/shejaemeric2)
