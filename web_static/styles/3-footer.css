@@ -1,14 +1,12 @@
+/* The styling sheet for the footer */
 footer {
+	left: 0;
+	bottom: 0;
+	position: fixed;
 	background-color: white;
 	height: 60px;
 	width: 100%;
-	position: absolute;
-	bottom: 0px;
-	margin-top: 1px;
-	border-top: 1px solid;
-	border-color: #CCCCCC;
-}
-footer p{
+	border-top: 1px solid #CCCCCC;
+	display: block;
 	text-align: center;
-        margin-top: 20px;
 }
